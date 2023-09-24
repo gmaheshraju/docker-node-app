@@ -1,6 +1,6 @@
 ## Simple node.js app with docker
 
-### Helpful commands
+### Helpful commands for dockerizing this application
 
 ```
 docker build . -t simple-app
