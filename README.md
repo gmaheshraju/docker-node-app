@@ -1,5 +1,4 @@
-## Simple node.js app with docker
-
+## Dockerize node.js application
 ### Helpful commands for dockerizing this application
 
 ```
